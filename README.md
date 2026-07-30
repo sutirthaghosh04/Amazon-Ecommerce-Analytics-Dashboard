@@ -73,7 +73,7 @@ Amazon-Analytics-Project/
 ## Screenshots
 
 ### Power BI Dashboard
-(dashboard\Amazon_dashboard.png)
+![Amazon Dashboard](dashboard/Amazon_dashboard.png)
 
 ---
 
